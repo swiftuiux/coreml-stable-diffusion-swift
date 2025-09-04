@@ -4,7 +4,7 @@
 
 The package is a mediator between Apple's Core ML Stable Diffusion implementation and your app that let you run text-to-image or image-to-image models
 
-## [SwiftUI example](https://github.com/swiftuiux/coreml-stable-diffusion-swift-example)
+## [SwiftUI example](https://github.com/swiftuiux/coreml-stable-diffusion-swift-example-app)
   
 ## [Documentation(API)](https://swiftpackageindex.com/swiftuiux/coreml-stable-diffusion-swift/main/documentation/coreml_stable_diffusion_swift)
   
